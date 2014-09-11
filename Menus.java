@@ -7,7 +7,9 @@ public class Menus{
    System.out.println("Los quiero todos!!!");
     System.out.println("Los quiero todos!!!");
   //Faltan cosas : )
-  //Pues ponlas FDO:David Izquierdo :D
+  System.out.println("Lorem ipsum dolor sit amet, consectetur adipiscing elit," 
+  +"sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.");
+  // Sobran graciosos ; ))))
   }
 
 }
